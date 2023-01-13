@@ -1,0 +1,9 @@
+name = "no-style-please"
+license = "MIT"
+description = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please."
+homepage = "https://github.com/Masellum/hugo-theme-nostyleplease"
+min_version = "0.41.0"
+
+[author]
+  name = "Masellum"
+  homepage = "Masellum.github.io"
